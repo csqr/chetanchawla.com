@@ -4,9 +4,13 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Chetan Chawla # Website name
+baseurl: 'https://chetanchawla.netlify.app/ ' # Website URL
+copyright: '' # Footer text, e.g. '© {year} Chetan Chawla'
+
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = "G-YH0EXSFJY8"
+
 
 ############################
 ## LANGUAGE
@@ -30,13 +34,17 @@ module:
 ## ADVANCED
 ############################
 
+# Get last modified date for content from Git?
 enableGitInfo: false
+
 summaryLength: 30
-paginate: 10
+
+paginate: 7 # Number of items per page in paginated lists.
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+
 permalinks:
   event: '/talk/:slug/'
   authors: '/author/:slug/'
@@ -44,21 +52,26 @@ permalinks:
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
+
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+  
 imaging:
   resampleFilter: lanczos
   quality: 75
   anchor: smart
 timeout: 600000
+
 taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
   author: authors
+  
 markup:
   _merge: deep
+  
 related:
   threshold: 80
   includeNewer: true
