@@ -4,7 +4,7 @@ authors:
 - admin
 date: "November, 2020"
 doi: "https://doi.org/10.1016/j.jbvi.2020.e00203"
-featured: false
+featured: true
 
 projects: []
 publication: '*Journal of Business Venturing Insights, 14*'
