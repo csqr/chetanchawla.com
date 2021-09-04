@@ -9,7 +9,7 @@ baseurl: 'https://chetanchawla.netlify.app/ ' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Chetan Chawla'
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "G-YH0EXSFJY8"
+#googleAnalytics = "G-YH0EXSFJY8" #causing error, TBD
 
 
 ############################
