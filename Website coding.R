@@ -1,6 +1,9 @@
 #Website using blogdown: July 24, 2021, https://alison.rbind.io/blog/2020-12-new-year-new-blogdown/ 
+
 library(blogdown)
+
 # Step 3: Create Site
+
 #Comments in https://alison.rbind.io/blog/2020-12-new-year-new-blogdown/ , template renamed "starter-hugo-academic"
 
 new_site(theme = "wowchemy/ starter-hugo-academic ")
@@ -36,3 +39,13 @@ file.edit(".gitignore")
 blogdown::check_gitignore()
 
 blogdown::check_content()
+
+# Step 4: Create content
+
+#Use .rmarkdown (NEVER .Rmd) since its more portable
+
+# Editing content on August 27, 2021. https://alison.rbind.io/talk/2020-sharing-short-notice/
+
+blogdown::new_post(title = "Hi Hugo", 
+                   ext = '.Rmarkdown', 
+                   subdir = "post")
