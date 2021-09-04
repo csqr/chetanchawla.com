@@ -7,11 +7,7 @@ doi: "https://doi.org/10.1016/j.jbvi.2020.e00203"
 featured: false
 
 projects: []
-publication: '*Journal of Business Venturing Insights, 1*(1)'
-publication_short: ""
-publication_types:
-- "2"
-slides: example
+publication: '*Journal of Business Venturing Insights, 14*'
 
 tags:
 - Source Themes
