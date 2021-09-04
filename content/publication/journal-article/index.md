@@ -6,18 +6,14 @@ authors:
 date: "November, 2020"
 doi: "https://doi.org/10.1016/j.jbvi.2020.e00203"
 featured: false
-#image:
-# caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#  focal_point: ""
-#  preview_only: false
+
 projects: []
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ""
 publication_types:
 - "2"
 slides: example
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-#  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags:
 - Source Themes
 title: Trust in blockchains: Algorithmic and organizational
