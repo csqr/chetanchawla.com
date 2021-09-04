@@ -42,7 +42,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Chetan Chawla
 ---
 
 I am a teacher, researcher, and consultant of business strategy, and entrepreneurship. I have 10+ years of business consulting experience with clients ranging from Fortune 100 defense companies to Indian retailers, and technology startups.
