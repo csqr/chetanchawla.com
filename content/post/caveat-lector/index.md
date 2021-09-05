@@ -9,8 +9,9 @@ featured: false
 image:
   caption: 'Image credit: [**Chetan Chawla**]'
   focal_point: ""
-  fig-width: 5 
-  fig-height: 5
+  ? 
+  $image: "$resource.Fit \"600x400\""
+: ~
   placement: 2
   preview_only: false
 lastmod: "2012-06-09T00:00:00Z"
@@ -25,9 +26,9 @@ title: Caveat Lector -  The Bias Checklist
 
 I have been a heavy consumer of blogs (mainly business and technology) for over a decade and recently began to think that I should turn my attention to producing. When I decided to write this blog, a few things about blogging (medium of expression both liberates and lassos you) stood out:
 
-    1. Blogs are inherently conversational and express “the unedited voice of a single person”.
-    2. However, this conversational and topical nature (the very things that attract an audience) of blogs (true to a lesser extent of other mediums like talk radio, TV etc.) make them highly susceptible to heuristic biases and logical fallacies.
-    3. Biases and ease of publication (no editorial or peer review required) on part of the author combined with tendency towards confirmation biases on part of the reader means that many blogs spiral downwards into echo chambers.
+  1. Blogs are inherently conversational and express “the unedited voice of a single person”.
+  2. However, this conversational and topical nature (the very things that attract an audience) of blogs (true to a lesser extent of other mediums like talk radio, TV etc.) make them highly susceptible to heuristic biases and logical fallacies.
+  3. Biases and ease of publication (no editorial or peer review required) on part of the author combined with tendency towards confirmation biases on part of the reader means that many blogs spiral downwards into echo chambers.
 
 As a general warning/ checklist for both my writing and readers, I have a list of (some) common biases below that have the potential to affect my writing. Since this list is based on the most common biases (full list of biases) I have noticed as a reader, they apply equally to any other blog posts you may be reading.
 
