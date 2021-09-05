@@ -9,9 +9,7 @@ featured: false
 image:
   caption: 'Image credit: [**Chetan Chawla**]'
   focal_point: ""
-  ? 
   $image: "$resource.Fit \"600x400\""
-: ~
   placement: 2
   preview_only: false
 lastmod: "2012-06-09T00:00:00Z"
