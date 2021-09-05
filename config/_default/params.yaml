@@ -2,11 +2,12 @@
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# Additional ideas sourced from: https://github.com/jimhester/jimhester.com/blob/master/config/_default/params.toml 
 
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
@@ -18,24 +19,65 @@ org_name: ''
 description: ''
 twitter: ''
 
-# Contact (edit or remove options as required)
+# Description for social sharing and search engines. If undefined, superuser role is used in place.
+description : "Personal website of Chetan Chawla where I blog about blockchains, startups, machine learning, and much more."
 
-email: chetanchawla@gmail.com
+############################
+## Contact Widget setup   ##
+############################
+
+# Enter contact details (optional). To hide a field, clear it to "".
+
+email : chetanchawla@gmail.com
+phone : ""
+address : ""
+
+# Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
+office_hours : ""
+
+# Enter an optional link for booking appointments (e.g. calendly.com or appointlet.com).
+appointment_url : ""
 
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/ChetanChawla'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/chetanchawla'
+  - icon : twitter
+    icon_pack : fab
+    name : DM Me
+    link : 'https://twitter.com/chetanchawla'
+  - icon : keybase
+    icon_pack : fab
+    name : Chat on Keybase
+    link : 'https://keybase.io/chetanchawla'
   - 
+# Twitter username (without @). Used when a vistor shares your site on Twitter.
+twitter : "chetanchawla"
+
+# Display a map.
+# To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
+# a map provider below.
+# To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
+#   https://developers.google.com/maps/documentation/javascript/get-api-key
+# To use OpenStreetMap tiles, set `map = 2`.
+# To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
+#   https://www.mapbox.com/studio/account/tokens
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+#
+# Map provider:
+#   0: No map
+#   1: Google Maps
+#   2: OpenStreetMap (Mapnik)
+#   3: OpenStreetMap (Mapbox)
+map : 0
+map_api_key : ""
+latitude : "37.4275"
+longitude : "-122.1697"
+zoom : 15
+
+# Configuration of research pages.
+
+research:
+  date_format: January 2006
+  citation_style: apa
+
 
 # Site header
 
