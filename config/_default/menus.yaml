@@ -16,7 +16,7 @@ main:
   - name: Blog Posts
     url: '#posts'
     weight: 4
-  - name: Book Reviews
-    url: '#bookreviews'
-    weight: 5
+  - # name: Book Reviews #Removing book reviews for now
+    # url: '#bookreviews'
+    # weight: 5
   
