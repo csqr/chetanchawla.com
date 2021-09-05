@@ -28,9 +28,9 @@ description : "Personal website of Chetan Chawla where I blog about blockchains,
 
 # Enter contact details (optional). To hide a field, clear it to "".
 
-email : chetanchawla@gmail.com
-phone : ""
-address : ""
+address: ""
+email: chetanchawla@gmail.com
+phone: ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours : ""
