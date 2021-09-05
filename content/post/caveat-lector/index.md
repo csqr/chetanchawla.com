@@ -3,16 +3,16 @@ authors:
 - admin
 categories:
 - Biases
-date: "2021-09-05T00:00:00Z"
+date: "2012-06-09T00:00:00Z"
 draft: false
 featured: false
 image:
   caption: 'Image credit: [**Chetan Chawla**]'
   focal_point: ""
-  $image: "$resource.Fit \"600x400\""
+  image: "$resource.Fit \"600x400\""
   placement: 2
   preview_only: false
-lastmod: "2012-06-09T00:00:00Z"
+lastmod: "2021-09-05T00:00:00Z"
 projects: []
 subtitle: "Old blog post from 2012 (links updated) on biases in blogs, including this one. Caveat lector."
 summary: "Old blog post from 2012 on biases in blogs, including this one. Caveat lector."
