@@ -9,7 +9,7 @@
 theme: minimal
 day_night: false
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -28,7 +28,7 @@ description : "Personal website of Chetan Chawla where I blog about blockchains,
 
 # Enter contact details (optional). To hide a field, clear it to "".
 
-address: ""
+#address: ""
 email: chetanchawla@gmail.com
 phone: ""
 
