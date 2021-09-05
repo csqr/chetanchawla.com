@@ -1,4 +1,7 @@
 ---
+# Activate this widget? true/false
+active: false
+
 widget: blank
 headless: true
 
