@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- Quotations
+- Biases
 date: "2021-09-05T00:00:00Z"
 draft: false
 featured: false
@@ -18,7 +18,7 @@ summary: "Old blog post from 2012 on biases in blogs, including this one. Caveat
 tags:
 - Biases
 
-title: Caveat Lector: The Bias Checklist
+title: Caveat Lector -  The Bias Checklist
 ---
 
 I have been a heavy consumer of blogs (mainly business and technology) for over a decade and recently began to think that I should turn my attention to producing. When I decided to write this blog, a few things about blogging (medium of expression both liberates and lassos you) stood out:
