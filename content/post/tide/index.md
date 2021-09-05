@@ -3,7 +3,7 @@ authors:
 - admin
 categories:
 - Quotations
-date: "2020-12-13T00:00:00Z"
+date: "2012-06-08T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -11,7 +11,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2012-06-08T00:00:00Z"
+lastmod: "2020-12-13T00:00:00Z" 
 projects: []
 subtitle: "Old blog post from 2012 on one of my favorite quotations."
 summary: "Old blog post from 2012 on one of my favorite quotations."
