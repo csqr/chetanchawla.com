@@ -9,7 +9,7 @@
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
 
-theme: ocean
+theme: coffee
 day_night: false
 font: ''
 font_size: M
