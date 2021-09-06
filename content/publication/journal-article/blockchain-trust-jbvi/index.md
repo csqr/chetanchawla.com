@@ -10,7 +10,9 @@ projects: []
 publication: '*Journal of Business Venturing Insights, 14*'
 
 tags:
-- Source Themes
+- Blockchains
+- Trust
+
 title: 'Trust in blockchains: Algorithmic and organizational'
 url_code: ""
 url_dataset: ""
