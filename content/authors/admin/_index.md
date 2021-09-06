@@ -12,7 +12,7 @@ education:
   - course: B.A.(Hons) in English
     institution: Sri Aurobindo College, University of Delhi
     year: 2003
-email: ""
+email: chetanchawla@gmail.com
 highlight_name: false
 interests:
 - Strategy
@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: North Central College
   url: https://www.northcentralcollege.edu/
-role: [Associate Professor of Entrepreneurship](https://www.northcentralcollege.edu/profile/cchawla)
+  role: Associate Professor of Entrepreneurship
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,6 +52,6 @@ My academic research focus is the association between capital providers (debt, e
 
 My academic teaching focus is strategy, and entrepreneurship.
 
-I am an Associate Professor of Entrepreneurship at North Central College in Naperville, IL in the School of Business and Entrepreneurship. 
+I am an [Associate Professor of Entrepreneurship](https://www.northcentralcollege.edu/profile/cchawla) at North Central College in Naperville, IL in the School of Business and Entrepreneurship. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Chetan_CV_20210804.pdf" "newtab" >}}resumé{{< /staticref >}}.
