@@ -15,8 +15,9 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Blockchains
+- Strategy
 - Startups
+- Blockchains
 - Machine Learning 
 organizations:
 - name: North Central College
@@ -51,6 +52,6 @@ My academic research focus is the association between capital providers (debt, e
 
 My academic teaching focus is strategy, and entrepreneurship.
 
-I am a tenured Associate Professor of Entrepreneurship at North Central College in Naperville, IL in the School of Business and Entrepreneurship. 
+I am an Associate Professor of Entrepreneurship at North Central College in Naperville, IL in the School of Business and Entrepreneurship. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Chetan_CV_20210804.pdf" "newtab" >}}resumé{{< /staticref >}}.
