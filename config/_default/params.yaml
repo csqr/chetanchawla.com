@@ -6,6 +6,10 @@
 
 # Appearance
 
+# Color theme.
+#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
+color_theme = "ocean"
+
 theme: minimal
 day_night: false
 font: ''
@@ -28,28 +32,25 @@ description : "Personal website of Chetan Chawla where I blog about blockchains,
 
 # Enter contact details (optional). To hide a field, clear it to "".
 
-#address: ""
-email: chetanchawla@gmail.com
-phone: ""
-
-# Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours : ""
-
-# Enter an optional link for booking appointments (e.g. calendly.com or appointlet.com).
-appointment_url : ""
-
-contact_links:
-  - icon : twitter
-    icon_pack : fab
-    name : DM Me
-    link : 'https://twitter.com/chetanchawla'
-  - icon : keybase
-    icon_pack : fab
-    name : Chat on Keybase
-    link : 'https://keybase.io/chetanchawla'
+--- 
+appointment_url: ""
+contact_links: 
   - 
-# Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter : "chetanchawla"
+    icon: twitter
+    icon_pack: fab
+    link: "https://twitter.com/chetanchawla"
+    name: "DM Me"
+  - 
+    icon: keybase
+    icon_pack: fab
+    link: "https://keybase.io/chetanchawla"
+    name: "Chat on Keybase"
+  - ~
+email: chetanchawla@gmail.com
+office_hours: ""
+phone: ""
+twitter: chetanchawla
+
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
