@@ -6,8 +6,10 @@ theme: "starter-hugo-academic"
 
 title: Chetan Chawla # Website name
 baseurl: 'https://chetanchawla.netlify.app/ ' # Website URL
---- "copyright = \"© Chetan Chawla, {year}\""
 
+#Copyright notice
+
+Copyright : \"© Chetan Chawla, {year}\""
 
 # Enable analytics by entering your Google Analytics tracking ID
 #googleAnalytics = "G-YH0EXSFJY8" #causing error, TBD
