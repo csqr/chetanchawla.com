@@ -14,6 +14,10 @@ day_night: false
 font: cyberpunk
 font_size: M
 
+#Copyright notice
+
+--- "copyright = \"© Chetan Chawla, {year}\""
+
 # SEO
 
 site_type: Person
