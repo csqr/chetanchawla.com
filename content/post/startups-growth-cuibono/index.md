@@ -3,7 +3,10 @@ authors:
 - admin
 categories:
 - Startups 
+- Strategy
 - Growth Investing
+- Extremistan
+
 date: "2012-09-23T00:00:00Z"
 draft: false
 featured: true
@@ -19,10 +22,11 @@ subtitle: "Blog post from Sept 2012 on growth/ startup investing in extremistan.
 summary: "Blog post from Sept 2012 on startup investing in extremistan"
 tags:
 - Startups 
+- Strategy
 - Growth Investing
 - Extremistan
 
-title: Startups & Growth: Cui bono?
+title: Startups & Growth - Cui bono?
 ---
 
 A recent [blog post](http://paulgraham.com/growth.html) by Paul Graham got me thinking about how growth in recent years has being positioned as THE goal of all early stage firms (i.e., startups). All good things flow from the achievement of this ephemeral target, in fact those who can help early stage firms get this growth have been labeled [growth hackers](https://en.wikipedia.org/wiki/Growth_hacking). One of the fascinating things about this focus on growth above all else is that it was not always so. The purpose of this post is to briefly give an overview of two distinct priorities in the pursuit of success (growth vs. profit) that have been common not just in the tech sector but also in more traditional industries (public company valuations have for a long time been split into these two categories). Ostensibly in the technology sector growth either accompanies or is shortly followed by profitability.
@@ -31,7 +35,7 @@ In order to build on these two distinctions and link them to this “growth fall
 
 In order to show how entrepreneurs can better analyze these landscapes i’ll use some simple concepts from strategic management (value creation vs. capture and disruptive innovation) to explain why this pursuit of growth is great from the point of view of angel investors and venture capitalists but not necessarily for entrepreneurs (critical distinction that is glossed over in most posts on startup growth).
 
-**Growth Hacking: Cui bono?**
+**Growth Hacking - Cui bono?**
 
 The gist of Paul Graham’s growth post is that startups are citizens of Extremistan while most conventional businesses are in Mediocristan, i.e. startups are exclusively high growth ventures that are not constrained by distribution and other barriers that limit the growth of most conventional businesses. However, the lack of these barriers also means that you have global competition and a crowded landscape which makes the entrepreneurial idiosyncrasies more valuable.
 
