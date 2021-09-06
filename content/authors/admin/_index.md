@@ -21,8 +21,8 @@ interests:
 - Machine Learning 
 organizations:
 - name: North Central College
-  url: https://www.northcentralcollege.edu/profile/cchawla
-role: Associate Professor of Entrepreneurship
+  url: https://www.northcentralcollege.edu/
+role: [Associate Professor of Entrepreneurship](https://www.northcentralcollege.edu/profile/cchawla)
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,7 +41,7 @@ social:
   link: https://github.com/csqr
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/chetanchawla
 superuser: true
 title: Chetan Chawla
 ---
