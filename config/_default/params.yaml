@@ -35,6 +35,8 @@ description : "Personal website of Chetan Chawla where I blog about blockchains,
 --- 
 appointment_url: ""
 contact_links: 
+
+--- "contact_links = [ { icon = \"envelope\", icon_pack = \"far\", name = \"eMail\", link = \"mailto:chetanchawla@gmail.com\" },"
   - 
     icon: twitter
     icon_pack: fab
