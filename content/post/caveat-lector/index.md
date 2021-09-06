@@ -41,4 +41,4 @@ The Bias Checklist:
 I tend to keep this checklist in mind when reading and (hopefully) will be able to avoid falling into these traps while writing. Whenever it is not possible for me to avoid a bias (for example, when writing about social networks I will likely be indulging in survivorship bias by focusing on the top few companies in the industry) I will point out that shortcoming as a limitation of any inferences I make. As always, caveat lector – reader beware!
 
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+
