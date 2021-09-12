@@ -50,7 +50,7 @@ social:
 
 - icon: linkedin
   icon_pack: fab
-  link: www:linkedin.com/in/chetanchawla
+  link: https://linkedin.com/in/chetanchawla
 
 superuser: true
 title: Chetan Chawla
