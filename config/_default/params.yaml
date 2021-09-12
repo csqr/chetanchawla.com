@@ -26,64 +26,43 @@ org_name: ''
 description: ''
 twitter: ''
 
-# Description for social sharing and search engines. If undefined, superuser role is used in place.
-description : "Personal website of Chetan Chawla where I blog about blockchains, startups, machine learning, and much more."
+# Contact (edit or remove options as required)
 
-############################
-## Contact Widget setup   ##
-############################
-
-# Enter contact details (optional). To hide a field, clear it to "".
-
---- 
-appointment_url: ""
-contact_links: 
-
---- "email = \"chetanchawla@gmail.com\" phone = \"\" address = \"\""
-- 
-    icon: twitter
-    icon_pack: fab
-    link: "https://twitter.com/chetanchawla"
-    name: "DM Me"
-  - 
-    icon: keybase
-    icon_pack: fab
-    link: "https://keybase.io/chetanchawla"
-    name: "Chat on Keybase"
-  - ~
 email: chetanchawla@gmail.com
-office_hours: ""
-phone: ""
-twitter: chetanchawla
 
-
-# Display a map.
-# To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
-# a map provider below.
-# To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
-#   https://developers.google.com/maps/documentation/javascript/get-api-key
-# To use OpenStreetMap tiles, set `map = 2`.
-# To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
-#   https://www.mapbox.com/studio/account/tokens
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#
-# Map provider:
-#   0: No map
-#   1: Google Maps
-#   2: OpenStreetMap (Mapnik)
-#   3: OpenStreetMap (Mapbox)
-map : 0
-map_api_key : ""
-#latitude : "37.4275"
-#longitude : "-122.1697"
-zoom : 15
-
-# Configuration of research pages.
-
-research:
-  date_format: January 2006
-  citation_style: apa
-
+# phone: 888 888 88 88
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
+#   country_code: US
+# coordinates:
+#   latitude: '37.4275'
+#   longitude: '-122.1697'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
+# contact_links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: DM Me
+#     link: 'https://twitter.com/Twitter'
+#   - icon: skype
+#     icon_pack: fab
+#     name: Skype Me
+#     link: 'skype:echo123?call'
+#   - icon: keybase
+#     icon_pack: fab
+#     name: Chat on Keybase
+#     link: 'https://keybase.io/'
+#   - icon: comments
+#     icon_pack: fas
+#     name: Discuss on Forum
+#     link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -109,7 +88,7 @@ highlight_languages:
   - r
   - python
   - latex
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -187,4 +166,17 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true
+
+############################
+## Code folding
+############################
+
+# from https://www.jepusto.com/code-folding-update/
+
+# Set to true to disable code folding
+disable_codefolding: true  # false
+# Set to "hide" or "show" all codes by default
+codefolding_show: "show"
+# Set to true to exclude the "Show/hide all" button
+codefolding_nobutton: false
