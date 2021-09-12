@@ -1,6 +1,9 @@
 ---
-bio: My research interests focus on entrepreneurial financing in the context of blockchain projects.
-  matter.
+# Display name
+name: Chetan Chawla
+
+bio: My research focus is on entrepreneurial financing in the context of blockchain projects.
+
 education:
   courses:
   - course: PhD in Strategic Management
@@ -12,36 +15,43 @@ education:
   - course: B.A.(Hons) in English
     institution: Sri Aurobindo College, University of Delhi
     year: 2003
-email: chetanchawla@gmail.com
+
+email: ""
 highlight_name: false
+
 interests:
 - Strategy
 - Startups
 - Blockchains
 - Machine Learning 
+
 organizations:
 - name: North Central College
   url: https://www.northcentralcollege.edu/
   role: Associate Professor of Entrepreneurship
+
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
+#- icon: envelope
+#  icon_pack: fas
+#  link: /#contact
+  
+- icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/ChetanChawla
+
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=Yt-84E4AAAAJ&hl=en&oi=ao
+
 - icon: github
   icon_pack: fab
   link: https://github.com/csqr
+
 - icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/chetanchawla
+
 superuser: true
 title: Chetan Chawla
 ---
