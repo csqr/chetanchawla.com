@@ -29,17 +29,7 @@ url_slides: ""
 url_source: ""
 
 abstract: 
-'Purpose
-The purpose of this paper is to explain the antecedents of environmental uncertainty in management using a historical framework. The goal of developing passion and compassion in management practice and research cannot be achieved unless a better understanding is developed of the main challenge facing researchers and practitioners – uncertainty.
-
-Design/methodology/approach
-The antecedents of uncertainty in management are explored using a historical framework. This enables the generation of insights into the nature and use of uncertainty over the decades.
-
-Findings
-The importance of environmental uncertainty is escalating. The paper's historical, philosophical and critical view helps scholars explain and interpret uncertainty within their own research and formulate new research questions.
-
-Originality/value
-Understanding the epistemological assumptions underlying paradigms will better enable researchers and practitioners to face a future filled with uncertainty and equivocality.'
+'**Purpose**The purpose of this paper is to explain the antecedents of environmental uncertainty in management using a historical framework. The goal of developing passion and compassion in management practice and research cannot be achieved unless a better understanding is developed of the main challenge facing researchers and practitioners – uncertainty. **Design/methodology/approach**The antecedents of uncertainty in management are explored using a historical framework. This enables the generation of insights into the nature and use of uncertainty over the decades. **Findings** The importance of environmental uncertainty is escalating. The paper's historical, philosophical and critical view helps scholars explain and interpret uncertainty within their own research and formulate new research questions. **Originality/value** Understanding the epistemological assumptions underlying paradigms will better enable researchers and practitioners to face a future filled with uncertainty and equivocality.'
 
 ---
 
