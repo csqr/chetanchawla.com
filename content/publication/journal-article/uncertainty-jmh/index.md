@@ -5,14 +5,13 @@ authors:
   - "Mzamo Mangaliso"
   - "Bradford Knipes"
   - "Jeff Gauthier"
-date: "April, 2012"
+date: "2012-04-01"
 doi: "https://doi.org/10.1108/17511341211206852"
 featured: false
 projects: []
 publication: "*Journal of Management History, 18*"
 publication_types: 
   - 2
-publishDate: "2012-04-01"
 tags: 
   - Uncertainty
   - Risk
