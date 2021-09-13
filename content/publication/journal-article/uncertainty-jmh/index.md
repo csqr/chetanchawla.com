@@ -5,7 +5,7 @@ authors:
   - "Mzamo Mangaliso"
   - "Bradford Knipes"
   - "Jeff Gauthier"
-date: "2012-04-01"
+date: "April 06, 2012"
 doi: "https://doi.org/10.1108/17511341211206852"
 featured: false
 projects: []
@@ -24,3 +24,8 @@ url_pdf: "https://doi.org/10.1108/17511341211206852"
 url_project: ""
 url_slides: ""
 url_source: ""
+
+---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./research/).{{% /callout %}}
