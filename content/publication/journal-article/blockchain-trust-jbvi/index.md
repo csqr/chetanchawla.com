@@ -2,7 +2,7 @@
 
 authors:
 - admin
-date: "November, 2020"
+date: "2020-11-01"
 doi: "https://doi.org/10.1016/j.jbvi.2020.e00203"
 featured: true
 
