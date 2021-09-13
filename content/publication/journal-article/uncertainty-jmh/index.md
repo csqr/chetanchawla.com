@@ -15,7 +15,7 @@ publication_types:
 tags: 
   - Uncertainty
   - Risk
-  - "Black Swan"
+  - Black Swan
   - Strategy
 title: "Antecedents and implications of uncertainty in management: A historical perspective"
 url_code: ""
