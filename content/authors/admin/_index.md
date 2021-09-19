@@ -58,10 +58,12 @@ title: Chetan Chawla
 
 I am a teacher, researcher, and consultant of business strategy, and entrepreneurship. I have 10+ years of business consulting experience with clients ranging from Fortune 100 defense companies to Indian retailers, and technology startups.
 
-My academic research focus is the association between capital providers (debt, equity, and non-traditional forms of financing e.g. crowdfunding) and startup outcomes. More specifically, I investigate the capital provider and startup linkage in contexts ranging from S & P 500 companies to cryptocurrency, blockchain projects, and other early-stage ventures.
+My research focus is on the association between capital providers (debt, equity, and non-traditional forms of financing e.g. crowdfunding) and startup outcomes*. More specifically, I investigate the capital provider and startup linkage in contexts ranging from S & P 500 companies to cryptocurrency, blockchain projects, and other early-stage ventures.
 
-My academic teaching focus is strategy, and entrepreneurship.
+My teaching focus is on strategy, and entrepreneurship.
 
-I am an [Associate Professor of Entrepreneurship](https://www.northcentralcollege.edu/profile/cchawla) at North Central College in Naperville, IL in the School of Business and Entrepreneurship. 
+I am an [Associate Professor of Entrepreneurship](https://www.northcentralcollege.edu/profile/cchawla) at North Central College in Naperville, IL in the School of Business and Entrepreneurship.
+
+*Legal Disclaimer: The content on this site is purely a record of my personal opinions/speculations/interests, which are subject to updating. Nothing here constitutes investment/legal/professional advice. As always, [caveat lector](https://chetanchawla.com/post/caveat-lector/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Chetan_CV_20210804.pdf" "newtab" >}}resumé{{< /staticref >}}.
