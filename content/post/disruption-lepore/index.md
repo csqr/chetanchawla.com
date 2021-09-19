@@ -3,12 +3,13 @@ authors:
 - admin
 categories:
 - Disruption
-- Innovation
 - Entrepreneurship
-- Startups
-- Growth Investing
 - Extremistan
+- Growth Investing
+- Innovation
 - Lean Startup
+- Power Laws
+- Startups
 
 date: "2014-06-17T00:00:00Z"
 draft: false
@@ -24,17 +25,18 @@ subtitle: "Blog post from 2014 on disruptive innovation."
 summary: "Blog post from 2014 on disruptive innovation."
 tags:
 - Disruption
-- Innovation
 - Entrepreneurship
-- Startups
-- Growth Investing
 - Extremistan
+- Growth Investing
+- Innovation
 - Lean Startup
+- Power Laws
+- Startups
 
 title: Disrupted Innovation
 ---
 
-It's great to see so many people reacting strongly To [Jill Lepore’ critique of disruptive innovation](https://www.newyorker.com/magazine/2014/06/23/the-disruption-machine) in the New Yorker. In spite of the [ad hominen fallacy](https://yourlogicalfallacyis.com/ad-hominem) that both Lepore and her critics indulge in, reality is that disruptive innovation has received strong criticism within management academia. My Ph.D. comprehensive exams in 2012 were on disruptive innovation so I am a little familiar with the scholarly literature on disruption. A few points to note:
+It's great to see so many people reacting strongly to [Jill Lepore’ critique of disruptive innovation](https://www.newyorker.com/magazine/2014/06/23/the-disruption-machine) in the New Yorker. In spite of the [ad hominen fallacy](https://yourlogicalfallacyis.com/ad-hominem) that both Lepore and her critics indulge in, reality is that disruptive innovation has received strong criticism within management academia. My Ph.D. comprehensive exams in 2012 were on disruptive innovation so I am a little familiar with the scholarly literature on disruption. A few points to note:
 
 1. Disruptive innovation has repeatedly received high quality criticism from serious scholars, some examples are:
 
