@@ -13,7 +13,7 @@ date: "2014-06-17T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: [**Chetan Chawla**]
+  caption: 'Image credit: [**Chetan Chawla**]'
   focal_point: ""
   placement: 
   preview_only: false
