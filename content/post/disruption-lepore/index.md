@@ -8,6 +8,7 @@ categories:
 - Startups
 - Growth Investing
 - Extremistan
+- Lean Startup
 
 date: "2014-06-17T00:00:00Z"
 draft: false
@@ -28,6 +29,7 @@ tags:
 - Startups
 - Growth Investing
 - Extremistan
+- Lean Startup
 
 title: Disrupted Innovation
 ---
